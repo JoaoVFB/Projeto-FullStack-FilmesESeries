@@ -42,9 +42,9 @@ No futuro (**Parte 2 - Backend da disciplina**), o projeto será expandido para 
 ├── 📁 public
 │   └── index.html
 ├── 📁 src
-│   ├── 📁 components     # componentes reutilizáveis (Card, Navbar, etc.)
+│   ├── 📁 components     # componentes reutilizáveis 
 │   ├── 📁 pages          # páginas principais (Home, Favoritos, Detalhes)
-│   ├── 📁 hooks          # hooks customizados (se necessário)
+│   ├── 📁 hooks          # hooks customizados 
 │   ├── 📁 context        # contexto e useReducer para favoritos
 │   ├── App.jsx
 │   ├── main.jsx
