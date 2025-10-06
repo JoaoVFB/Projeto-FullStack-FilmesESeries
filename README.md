@@ -32,7 +32,7 @@ No futuro (**Parte 2 - Backend da disciplina**), o projeto será expandido para 
 ### **Bibliotecas Externas**  
 - [Material UI](https://mui.com/) — interface responsiva e moderna  
 - [Axios](https://axios-http.com/) — consumo da API  
-- [React Router](https://reactrouter.com/) *(opcional)* — rotas internas (detalhes de filmes/séries)  
+- [React Router](https://reactrouter.com/) — rotas internas (detalhes de filmes/séries)  
 
 ---
 
